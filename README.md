@@ -1,4 +1,4 @@
-# vue_blog
+# nuxt_blog
 
 > My super-excellent Nuxt.js project
 
